@@ -51,3 +51,18 @@ oc expose springboot-sample-app --hostname=www.example.com
 ## Copyright
 
 Released under the Apache License 2.0. See the [LICENSE](https://github.com/codecentric/springboot-sample-app/blob/master/LICENSE) file.
+
+Screenshots for Reefernce 
+![thumbnail](https://user-images.githubusercontent.com/108517129/192424188-ab2cc015-9636-449f-b30e-b649d44ad442.PNG)
+
+
+
+
+![2](https://user-images.githubusercontent.com/108517129/192424238-38caa5c3-c099-463d-bf93-3b206eda2107.PNG)
+
+
+
+
+
+
+
